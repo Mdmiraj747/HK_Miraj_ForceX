@@ -1,8 +1,4 @@
-import os
-import time
-
-def clear():
-    os.system("clear")
+os.system("clear")
 
 def intro():
     clear()
